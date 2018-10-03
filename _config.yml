@@ -1,0 +1,32 @@
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.44806837127543986
+  lightness: 0.5417974377050996
+  saturation: 0.6659006583504379
+  rhythmicContrast: 0.20985246147029102
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: IDEAL PLACE
+layout_spectrum: 0.04848354705609381
+typography_spectrum: 0.13286510622128844
+content: []
+title: IDEAL PLACE
+description: ''
+github: true
+author:
+  name: Manabu Takahashi
+  email: manax@mac.com
+  url: 'http://manax.one/'
+opengraph:
+  appId: '1712609728751499'
+  type: website
